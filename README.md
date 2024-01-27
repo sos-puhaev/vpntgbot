@@ -1,3 +1,5 @@
+![Image alt](https://github.com/sos-puhaev/vpntgbot/blob/main/image.png)
+
 # VPN Telegram Bot (Не судите строго ☺️,cырой вид, требует множество дороботок, так же модификации кода, в целом код рабочий)
 # Что делает этот бот:
 
